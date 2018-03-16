@@ -8,6 +8,6 @@ CLIVersion: afficher la version
 CLIHeader: Tap Tempo mesure le rythme de votre frappe
 CLIDescription: Appuyez sur <Entrée> en rythme
 
-CLIHelpPrecision: changer le nombre de décimale du tempo à afficher.
-CLIHelpResetTime: changer le temps en seconde de remise à zéro du calcul.
+CLIHelpPrecision: changer le nombre de décimales du tempo à afficher.
+CLIHelpResetTime: changer le temps en secondes de remise à zéro du calcul.
 CLIHelpSampleSize: changer le nombre d'échantillons nécessaires au calcul du tempo.
